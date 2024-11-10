@@ -4,11 +4,12 @@
 
 
 
-<h1 align="left">🔭 I’m currently working on</h1>
+<h1 align="left">🤝 I’m currently working on</h1>
 -   Hanwha Q CELLS Software Development team , Data Engineer
 
 <h1 align="left">⚡ Work experience</h1>
 -   Hanwha Q CELLS, Data Engineer (2022.1~ Now)
+
 -   Hanyang University, Power & Energy System (PES) Laboratory (Data Scientist) (2020.1~ 2022.02)
 
 
