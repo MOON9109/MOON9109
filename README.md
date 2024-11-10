@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moonseok Chang</h1>
 <h3 align="center">A passionate Data/MLOps Engineer from South korea</h3>
 
+- 🔭 I’m currently working on **Hanwha Q CELLS Software Development team**
+
+- 📫 How to reach me **hanhannetnet@naver.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
