@@ -5,9 +5,10 @@
 
 
 <h1 align="left">🔭 I’m currently working on</h1>
--   *Hanwha Q CELLS Software Development team
+-   Hanwha Q CELLS Software Development team , Data Engineer
 
 <h1 align="left">⚡ Work experience</h1>
+-   Hanwha Q CELLS (2022.1~ Now)
 
 
 <h3 align="left">Connect with me:</h3>
