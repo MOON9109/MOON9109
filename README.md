@@ -6,7 +6,7 @@
 
 <h1 align="left">🤝 I’m currently working on</h1>
 
--   Hanwha Q CELLS Software Development team , Data Engineer
+-   Hanwha System Data Intelligence team , Data Engineer
 
 <h1 align="left">⚡ Work experience</h1>
 
